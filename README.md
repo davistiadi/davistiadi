@@ -1,8 +1,9 @@
 # 🚀 David Kurnia Kristiadi
 
 Software Enginner at GoTo Financial. Currently working/have worked with these amazing teams:
-- GoPay Later Tokopedia Squad
-- GoPay Later GGD
+- Consumer Lending – GoPay Later Tokopedia Squad
+- Consumer Lending – GoPay Later GGD
+- Commerce Enablement - ProEng Front-end
 
 ## Expertise
 - **Web Development**: React, Next, Redux, TailwindCSS
